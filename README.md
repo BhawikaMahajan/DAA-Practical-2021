@@ -9,7 +9,7 @@
 *This is because the maximum height of a red black tree almost same as balanced tree.*
 
 ##### Ques2: Greedy approach for finding minimum spanning tree of graph:
-*This can by done using Kruskel's algorithm:*
+*This can by done using Kruskal's algorithm:*
 ###### Time complexity for finding minimum spanning tree is O(E logV)
 
 ##### Ques3:Following are shown in series best average and worst:
@@ -27,4 +27,18 @@
 
 ##### (A) RED BLACK TREE :
 ###### Red black tree is used in process scheduling algorithms as it helps in faster insertions,retrievals and also it stores the elements in sorted order.
+
+##### (B) MINIMUM SPANNING TREE :
+###### These are mostly applied in network designs , also used to solve complex mathematics and in cluster analysis too.
+
+##### (C) 
+*(i) INSERTION SORT : mostly used when no. of elements is small and useful when array is almost sorted.*
+
+*(ii) SELECTION SORT :It is an in place sorting technique and do not requires a lot of space for sorting.*
+
+*(iii) QUICK SORT :It is the fastest of all sorting techniques and used almost everywhere where stable sort is not needed.*
+
+*(iv) MERGE SORT :Used for sorting linked lists, also used for counting inversions in a list.*
+
+*(v) BUBBLE SORT :It uses less storage space.Can be used to sort the unsorted elements in a specifc order.*
 
