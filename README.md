@@ -12,13 +12,11 @@
 *This can by done using Kruskel's algorithm:*
 ###### Time complexity for finding minimum spanning tree is O(E logV)
 
-##### Ques3: Insertion Sort (worst case)
-###### Algorithm        |TimeComplexity |             |           |
-|-----------------|:-------------:|:-----------:|:---------:|
-|                 | Best          | Average     | worst     |
-|Insertion sort   | Ω(n)          |θ(n^2)       | O(n^2)    |
-|Selection Sort	  |  Ω(n^2)       | θ(n^2)      |	O(n^2)    |
-|Quick Sort       | Ω(n log(n))   |	θ(n log(n))	| O(n^2)    |
-|Merge Sort	      | Ω(n log(n))  	|θ(n log(n))	|O(n log(n))|
-|Bubble Sort	    |Ω(n)           | 	θ(n^2)	  | O(n^2)    |
+##### Ques3:Following are shown in series best average and worst:
+                
+*Insertion sort   Ω(n)    θ(n^2)  O(n^2)  
+Selection Sort	  Ω(n^2)  θ(n^2)  O(n^2)  
+Quick Sort       Ω(n log(n))  	θ(n log(n)  O(n^2)    
+Merge Sort	  Ω(n log(n))  	θ(n log(n)  O(n log(n))
+Bubble Sort	  Ω(n)        	θ(n^2)	  O(n^2) *   
         
