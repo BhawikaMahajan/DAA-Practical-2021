@@ -14,9 +14,17 @@
 
 ##### Ques3:Following are shown in series best average and worst:
                 
-*Insertion sort   Ω(n)    θ(n^2)  O(n^2)  
-Selection Sort	  Ω(n^2)  θ(n^2)  O(n^2)  
-Quick Sort       Ω(n log(n))  	θ(n log(n)  O(n^2)    
-Merge Sort	  Ω(n log(n))  	θ(n log(n)  O(n log(n))
-Bubble Sort	  Ω(n)        	θ(n^2)	  O(n^2) *   
+|Algorithm         |TimeComplexity |             |           |
+|------------------|:-------------:|:-----------:|:---------:|
+|                  | Best          | Average     | worst     |
+|Insertion sort    | Ω(n)          |θ(n^2)       | O(n^2)    |
+|Selection Sort	   |  Ω(n^2)       | θ(n^2)      |	O(n^2)   |
+|Quick Sort        | Ω(n log(n))   |θ(n log(n))	 | O(n^2)    |
+|Merge Sort	       | Ω(n log(n))   |θ(n log(n))	 |O(n log(n))|
+|Bubble Sort	     |Ω(n)           | 	θ(n^2)	   | O(n^2)    |
         
+### APPLICATIONS :
+
+##### (A) RED BLACK TREE :
+###### Red black tree is used in process scheduling algorithms as it helps in faster insertions,retrievals and also it stores the elements in sorted order.
+
